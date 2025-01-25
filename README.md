@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
