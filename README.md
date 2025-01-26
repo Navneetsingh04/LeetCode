@@ -15,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
