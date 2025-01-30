@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
