@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 ## Recursion
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
