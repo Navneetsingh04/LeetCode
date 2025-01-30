@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [1765-merge-in-between-linked-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1765-merge-in-between-linked-lists) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -78,14 +79,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 ## Stack
 |  |
 | ------- |
