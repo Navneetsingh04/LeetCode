@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -218,9 +220,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
