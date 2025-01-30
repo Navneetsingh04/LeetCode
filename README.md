@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1765-merge-in-between-linked-lists) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0206-reverse-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
