@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
