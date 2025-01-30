@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [1765-merge-in-between-linked-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1765-merge-in-between-linked-lists) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
