@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
