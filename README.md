@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
 | ------- |
