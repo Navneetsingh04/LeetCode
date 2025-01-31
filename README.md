@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
@@ -203,17 +204,20 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
