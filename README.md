@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
