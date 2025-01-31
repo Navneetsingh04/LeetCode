@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 ## Matrix
 |  |
