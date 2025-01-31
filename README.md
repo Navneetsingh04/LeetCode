@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
