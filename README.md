@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0155-min-stack) |
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0394-decode-string) |
