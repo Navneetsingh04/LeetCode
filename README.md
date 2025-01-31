@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
