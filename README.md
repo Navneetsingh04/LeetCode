@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
 ## Linked List
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
 ## Dynamic Programming
