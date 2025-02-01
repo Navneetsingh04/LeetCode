@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 ## Linked List
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
