@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
 | ------- |
