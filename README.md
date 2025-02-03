@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
 ## Math
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
