@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
 | ------- |
