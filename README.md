@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
+| [1603-running-sum-of-1d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1603-running-sum-of-1d-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Segment Tree
 |  |
