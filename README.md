@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0500-keyboard-row) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
