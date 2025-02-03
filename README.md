@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
@@ -488,4 +489,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
