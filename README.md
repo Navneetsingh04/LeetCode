@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0065-valid-number) |
