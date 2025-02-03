@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0065-valid-number) |
@@ -454,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
