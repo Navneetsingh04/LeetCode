@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
 ## Math
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0409-longest-palindrome) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
