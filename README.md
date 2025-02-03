@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1045-check-if-word-is-valid-after-substitutions) |
