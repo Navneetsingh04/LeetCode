@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Math
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0415-add-strings) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
