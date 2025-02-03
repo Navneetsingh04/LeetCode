@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0500-keyboard-row) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -574,10 +577,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
