@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0089-gray-code) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
