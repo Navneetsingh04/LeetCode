@@ -142,7 +142,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
-| [0953-reverse-only-letters](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0953-reverse-only-letters) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -481,7 +480,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
-| [0953-reverse-only-letters](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
