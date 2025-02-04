@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
