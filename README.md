@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
