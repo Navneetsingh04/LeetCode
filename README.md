@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0303-range-sum-query-immutable) |
+| [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0500-keyboard-row) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 ## Counting
 |  |
 | ------- |
