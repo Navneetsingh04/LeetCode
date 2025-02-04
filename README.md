@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
