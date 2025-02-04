@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0059-spiral-matrix-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
