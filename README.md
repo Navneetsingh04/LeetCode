@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
