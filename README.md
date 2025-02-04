@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2102-find-the-middle-index-in-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
