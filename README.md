@@ -49,7 +49,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
-| [0898-transpose-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
@@ -57,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -476,7 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
-| [0898-transpose-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
@@ -488,7 +488,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
-| [0898-transpose-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -594,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
