@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0146-lru-cache) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
