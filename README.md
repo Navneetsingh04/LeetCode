@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Backtracking
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Number Theory
 |  |
 | ------- |
