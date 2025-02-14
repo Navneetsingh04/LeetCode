@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2434-design-a-number-container-system) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2050-count-good-numbers) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
 ## Matrix
 |  |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
