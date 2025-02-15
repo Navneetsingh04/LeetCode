@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
