@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
