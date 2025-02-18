@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Ordered Set
 |  |
 | ------- |
