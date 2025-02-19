@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [1160-letter-tile-possibilities](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
