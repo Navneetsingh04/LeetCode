@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1582-design-browser-history) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -716,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Counting
 |  |
 | ------- |
