@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0883-car-fleet) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0926-find-and-replace-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
