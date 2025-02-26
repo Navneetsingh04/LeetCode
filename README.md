@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1694-make-sum-divisible-by-p) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1902-car-fleet-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
