@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0113-path-sum-ii) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0098-validate-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0501-find-mode-in-binary-search-tree) |
