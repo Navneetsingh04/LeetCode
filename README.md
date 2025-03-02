@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
