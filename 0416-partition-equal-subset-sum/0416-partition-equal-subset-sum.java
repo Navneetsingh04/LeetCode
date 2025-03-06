@@ -1,31 +1,32 @@
 class Solution {
-    public boolean subsetSum(int index,int n,int target,int nums[],int dp[][]){
-        if(target == 0) return true;
-        if(index == 0) return (nums[0] == target);
-        if(dp[index][target] != -1){
-            return dp[index][target] == 1;
-        }
-        boolean notTake = subsetSum(index-1,n,target,nums,dp);
-        boolean take = false;
-        if(nums[index] <= target){
-            take = subsetSum(index-1,n,target-nums[index],nums,dp);
-        }
-        dp[index][target] = notTake || take?1:0;
-        return dp[index][target] == 1;
-    }
     public boolean canPartition(int[] nums) {
         int n = nums.length;
         int totalSum = 0;
-       
-        for(int i: nums){
+
+        for(int i : nums){
             totalSum += i;
         }
         if(totalSum%2 != 0) return false;
         int target = totalSum/2;
-        int dp[][] = new int[n][target+1];
-        for(int i[]: dp){
-            Arrays.fill(i,-1);
+        boolean dp[][] = new boolean[n][target + 1];
+
+        for(int i = 0;i<n;i++){
+            dp[i][0] = true;
         }
-        return subsetSum(n-1,n,target,nums,dp);
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
+        }
+
+        for(int i = 1;i<n;i++){
+            for(int j = 1;j<=target;j++){
+                boolean notTake = dp[i-1][j];
+                boolean take = false;
+                if(nums[i] <= j){
+                    take = dp[i-1][j-nums[i]];
+                }
+                dp[i][j] = notTake || take;
+            }
+        }
+        return dp[n-1][target];
     }
 }
