@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0647-palindromic-substrings) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0647-palindromic-substrings) |
