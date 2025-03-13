@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0171-excel-sheet-column-number) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
