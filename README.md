@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1072-next-greater-node-in-linked-list) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
