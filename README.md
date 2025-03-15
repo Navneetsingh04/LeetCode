@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0143-reorder-list) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0067-add-binary) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0072-edit-distance) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0409-longest-palindrome) |
