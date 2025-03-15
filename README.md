@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
