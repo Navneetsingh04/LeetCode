@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0303-range-sum-query-immutable) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0516-longest-palindromic-subsequence) |
