@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0731-my-calendar-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0731-my-calendar-ii) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0494-target-sum) |
