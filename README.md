@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2665-minimum-time-to-repair-cars) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2478-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bucket Sort
