@@ -23,9 +23,9 @@ class Solution {
         }
         Arrays.sort(newCuts);
         int dp[][] = new int[m+2][m+2];
-        for(int len = 1;len<=m;len++){
-            for(int i= 1;i+len-1<=m;i++){
-                int j = i+len-1;
+        for(int i = m;i>=1;i--){
+            for(int j = 1;j<=m;j++){
+                if(i>j) continue;
                 int mini = Integer.MAX_VALUE;
                 for(int idx = i;idx<=j;idx++){
                     int cost = (newCuts[j+1]-newCuts[i-1])+
