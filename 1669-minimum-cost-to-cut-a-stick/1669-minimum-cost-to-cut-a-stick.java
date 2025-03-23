@@ -16,16 +16,25 @@ class Solution {
         int m = cuts.length;
         int newCuts[] = new int[m+2];
         newCuts[0] = 0;
-        newCuts[m+1] = n;
+        newCuts[m+1] = n;  
 
         for(int i = 0;i<m;i++){
             newCuts[i+1] = cuts[i];
         }
         Arrays.sort(newCuts);
         int dp[][] = new int[m+2][m+2];
-        for(int i[] : dp){
-            Arrays.fill(i,-1);
+        for(int len = 1;len<=m;len++){
+            for(int i= 1;i+len-1<=m;i++){
+                int j = i+len-1;
+                int mini = Integer.MAX_VALUE;
+                for(int idx = i;idx<=j;idx++){
+                    int cost = (newCuts[j+1]-newCuts[i-1])+
+                    dp[i][idx-1] +dp[idx+1][j];
+                    mini = Math.min(mini,cost);
+                }
+                dp[i][j] = mini;
+            }
         }
-        return func(1,m,newCuts,dp);
+        return dp[1][m];
     }
 }
