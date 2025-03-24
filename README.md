@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0494-target-sum) |
