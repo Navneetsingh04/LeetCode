@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1002-maximum-width-ramp) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0812-rotate-string) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
