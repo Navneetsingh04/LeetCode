@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0238-product-of-array-except-self) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0547-number-of-provinces) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0861-flipping-an-image](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0547-number-of-provinces) |
@@ -967,5 +971,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navneetsingh04/LeetCode-GFG/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
