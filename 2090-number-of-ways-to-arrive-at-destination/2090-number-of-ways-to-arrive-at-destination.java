@@ -1,40 +1,50 @@
+class Pair{
+    int node;
+    long time;
+    Pair(int node,long time){
+        this.time = time;
+        this.node = node;
+    }
+}
 class Solution {
     int MOD = (int)1e9+7;
     public int countPaths(int n, int[][] roads) {
-        Map<Integer,List<int[]>> adjList = new HashMap<>();
+        List<List<Pair>> adjList = new ArrayList<>();
         for(int i= 0;i<n;i++){
-            adjList.put(i,new ArrayList<>());
+            adjList.add(new ArrayList<>());
         } 
         for(int road[]: roads){
-            int u = road[0],v = road[1],time = road[2];
-            adjList.get(u).add(new int[]{v,time});
-            adjList.get(v).add(new int[]{u,time});
+            int u = road[0];
+            int v = road[1];
+            int time = road[2];
+            adjList.get(u).add(new Pair(v,time));
+            adjList.get(v).add(new Pair(u,time));
         }
 
-        PriorityQueue<long[]> pq = new PriorityQueue<>(Comparator.comparingLong(a -> a[0]));
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x,y) -> Long.compare(x.time, y.time));
         long ans[] = new long[n];
         int pathCount[] = new int[n];
         Arrays.fill(ans,Long.MAX_VALUE);
 
         ans[0] = 0;
-        pathCount[0] =1;
-        pq.add(new long[]{0,0});
+        pathCount[0] = 1;
+        pq.add(new Pair(0,0));
 
         while(!pq.isEmpty()){
-            long[] curr = pq.poll();
-            long currTime = curr[0];
-            int currNode = (int) curr[1];
+            Pair p  = pq.poll();
+            long currTime = p.time;
+            int currNode = p.node;
 
             if(currTime > ans[currNode]) continue;
 
-            for(int neighour[] : adjList.get(currNode)){
-                int adjNode = neighour[0];
-                int roadTime = neighour[1];
+            for(Pair i: adjList.get(currNode)){
+                int adjNode = i.node;
+                long roadTime = i.time;
 
                 if(currTime + roadTime < ans[adjNode]){
                     ans[adjNode] = currTime+roadTime;
                     pathCount[adjNode] = pathCount[currNode];
-                    pq.add(new long[]{ans[adjNode],adjNode});
+                    pq.add(new Pair(adjNode,ans[adjNode]));
                 }
                 else if(currTime + roadTime == ans[adjNode]){
                     pathCount[adjNode] = (pathCount[adjNode] + pathCount[currNode])%MOD;
